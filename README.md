@@ -1,5 +1,9 @@
-# cen4802
+# CEN 4802 — Java Coursework
 
-Axel Diaz
+> Archived Java coursework exercises.
 
-Resolves missing JAVADOC from Main 
+Includes a small recursive Fibonacci exercise and Javadoc documentation work.
+
+## Scope
+
+Retained as coursework and not represented as an active product or production service.
